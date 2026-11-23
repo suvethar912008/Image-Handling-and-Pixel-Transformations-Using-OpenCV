@@ -339,5 +339,5 @@ plt.axis("off")
 
 
 
-#RESULT 
+# RESULT 
 Thus, image handling and pixel transformations were performed using Python, OpenCV, and Matplotlib. The experiment demonstrated image reading, shape drawing, text insertion, color space conversion, pixel manipulation, image resizing, cropping, flipping, and saving.
