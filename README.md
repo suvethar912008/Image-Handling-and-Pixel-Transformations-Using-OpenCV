@@ -304,8 +304,13 @@ plt.axis("off")
 # 6. HSV, grayscale, and YCrCb color space conversions.
 
 
-<img width="367" height="402" alt="image" src="https://github.com/user-attachments/assets/5b6c6bfb-943b-4732-a1d3-0037a55d17fe" />
+<img width="380" height="386" alt="image" src="https://github.com/user-attachments/assets/f59df828-c9b6-4a7c-8127-526013a197d3" />
 
+
+<img width="365" height="392" alt="image" src="https://github.com/user-attachments/assets/bf26c9f0-0422-451a-9ca2-6227428af0e7" />
+
+
+<img width="382" height="398" alt="image" src="https://github.com/user-attachments/assets/39c31819-c78a-4fb4-8261-3aaea672f550" />
 
 # 7. Image converted from HSV back to RGB.
 
